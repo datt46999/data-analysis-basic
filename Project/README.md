@@ -6,7 +6,7 @@ Language python.
 
 Library: numpy, pandas, matplotlib, sklearn, cv2, glod, os, imutils.
 
-Environment: Google Colab
+Environment: 
 
 # data: https://drive.google.com/drive/folders/1lkl0PQdEyr_5J1EJZpBcoQYoy21AGJ_2?usp=drive_link
 # Note 
