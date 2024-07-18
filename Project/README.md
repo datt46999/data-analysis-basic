@@ -4,7 +4,7 @@
 ## About this model
 Language python.
 
-Library: numpy, pandas, matplotlib, sklearn, cv2, glod, os, imutils.
+Library: numpy, pandas, matplotlib, torch,..
 
 Environment: 
 
